@@ -4,7 +4,7 @@
       <H1>HUBLI</H1>
       <H2>GOVERNMENT POLYTECHNIC COLLEGE IS LOCATED NEAR KIMS</H2>
 
-<IMG SRC>test.jpg</IMG SRC>
+<IMG SRC>test.jpg
       
   </HEAD>
 </HTML>
